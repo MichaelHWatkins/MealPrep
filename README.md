@@ -6,3 +6,6 @@
 * 1 - 2:30 Researched more about how C# and React communicate.
 * 2:30 - 3:30 Looked through the code to see what I need and don't need to make the program work.
 * 3:30 - 4:30 Researched how routes work in React.
+
+#### Sunday, 02/20
+* 4:30 - 5 Learned about the spa method that connects the C# to React in the Startup.cs file.
