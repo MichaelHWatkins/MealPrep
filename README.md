@@ -9,3 +9,6 @@
 
 #### Sunday, 02/20
 * 4:30 - 5 Learned about the spa method that connects the C# to React in the Startup.cs file.
+
+#### Wednesday, 02/23
+* 6 - 7 Learned more about how to call api's and send them to the react front end. Briefly considered switching to a full c# app but decided against it for the moment.
