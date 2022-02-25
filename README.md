@@ -18,3 +18,4 @@
 
 #### Friday, 02/25
 * 8:09 - 8:39 Working towards making an API call. Reading through week 5 of the C# lessons.
+* 8:39 - 9:09 Continuing to build the api call, focusing on the model at the moment, used json2csharp website to convert the api call to a model.
