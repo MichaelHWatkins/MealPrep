@@ -15,3 +15,6 @@
 
 #### Thursday, 02/24
 * 3:30 - 4:00 Researched Spoonacular Api more and attempted to see what I would need to make an api call. Also updated my capstone proposal.
+
+#### Friday, 02/25
+* 8:09 - 8:39 Working towards making an API call. Reading through week 5 of the C# lessons.
